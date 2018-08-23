@@ -69,7 +69,7 @@ def create_game_data_dict():
                  'battle type': '',
                  'princes quest': False,
                  'princes crown': False,
-                 'daughters item': 'ELIXIR'
+                 'daughters item': 'Potion'
     }
 
     return data_dict
