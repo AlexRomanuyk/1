@@ -54,7 +54,6 @@ def create_game_data_dict():
                                                   ('quantity',1)])},
                  'player inventory': player_items,
                  'player stats': player_stats,
-                 'battle counter': 50,
                  'treasure1': True,
                  'treasure2': True,
                  'treasure3': True,
